@@ -20,5 +20,6 @@ Precision, Bias Mitigation, Ethical Considerations.
 7. In prompt engineering, common challenges include ensuring specificity, avoiding bias, and promoting user creativity. These challenges can be addressed by utilizing diverse datasets, refining prompt design based on user feedback, and incorporating ethical considerations to mitigate bias.
 1: To address bias in prompt engineering, OpenAI's GPT-3 model focuses on incorporating a wide range of input data sources to enhance the model's understanding and minimize bias in generated responses.
 
-8. 
+8. Prompt engineering has been successfully applied in chatbots to improve response accuracy and user experience. Key factors for success include designing diverse prompts, refining language models, and continuous testing for optimal results.
+Future trends in prompt engineering include automating prompt creation, enhancing model capabilities with prompt variation, and integrating prompts to achieve specific outcomes efficiently.
 
