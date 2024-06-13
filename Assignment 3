@@ -7,4 +7,8 @@ Controlled Generation
 2. An essential components of a well-crafted prompt for an AI model include:
 Clear Objective, Context, Examples or Guidelines, Specificity, Length.
 
+3. Prompt tuning involves adjusting or optimizing the prompts given to an AI model in order to generate more accurate responses.
+These are done through Open-ended prompts, Instructional prompts, Specific prompts, Creative prompts.
+
+4. 
 
