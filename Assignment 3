@@ -10,5 +10,7 @@ Clear Objective, Context, Examples or Guidelines, Specificity, Length.
 3. Prompt tuning involves adjusting or optimizing the prompts given to an AI model in order to generate more accurate responses.
 These are done through Open-ended prompts, Instructional prompts, Specific prompts, Creative prompts.
 
-4. 
+4. The context provides the necessary information and constraints for the model to generate relevant, coherent, and accurate responses. This is done through improved Relevance, Coherence,
+Precision, Bias Mitigation, Ethical Considerations.
 
+5. 
